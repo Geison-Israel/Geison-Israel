@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geison-Israel
 - 👀 I’m interested in  Html,Css, JavaScript
-- 🌱 I’m currently learning  Html, Css, JavaScript
+- 🌱 I’m currently learning  Html, Css, C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  geisonisrael@gmail.com, https://www.facebook.com/geisonisrael/, https://www.instagram.com/geison_israel/
 
